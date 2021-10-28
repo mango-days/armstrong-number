@@ -5,7 +5,7 @@ def size(number):
     index+=1
   return index
 
-number=1634
+number=int(input())
 number_copy=number
 ans=0
 index=size(number)
